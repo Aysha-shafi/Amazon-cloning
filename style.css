@@ -238,7 +238,7 @@
    
   }
   .background{
-    background-image:linear-gradient(rgba(0, 0, 0, 0)70%,rgb(234, 234, 234) 100%),url("back.jpg") ;
+    background-image:linear-gradient(rgba(0, 0, 0, 0)70%,rgb(234, 234, 234) 100%),url("/images/back.jpg") ;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
